@@ -1,0 +1,19 @@
+.login {
+}
+
+.card {
+  border-radius: 500px; /* 5px rounded corners */
+}
+.close {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: left;
+  text-transform: none;
+  color: #000f1d;
+  opacity: 0.92;
+  font-family: sans-serif;
+}
+.sign-two {
+  font-size: medium;
+  font-weight: 550;
+}

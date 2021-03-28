@@ -1,0 +1,142 @@
+ <Row>
+        <Col md={24}>
+          <Row justify="space-around">
+            <Col md={4} sm={24} xs={20}>
+              <Menu
+                mode="inline"
+                defaultSelectedKeys={[""]}
+                defaultOpenKeys={["null"]}
+                style={{ height: "100%" }}
+              >
+                <SubMenu key="sub1" title="CATEGORY">
+                  <Menu.Item key="1">option1</Menu.Item>
+                  <Menu.Item key="2">option2</Menu.Item>
+                  <Menu.Item key="3">option3</Menu.Item>
+                  <Menu.Item key="4">option4</Menu.Item>
+                </SubMenu>
+                <SubMenu key="sub2" title="PRICE">
+                  <Menu.Item key="5">option5</Menu.Item>
+                  <Menu.Item key="6">option6</Menu.Item>
+                  <Menu.Item key="7">option7</Menu.Item>
+                  <Menu.Item key="8">option8</Menu.Item>
+                </SubMenu>
+                <SubMenu key="sub66" title="BRAND">
+                  <Menu.Item key="59">option9</Menu.Item>
+                  <Menu.Item key="510">option10</Menu.Item>
+                  <Menu.Item key="511">option11</Menu.Item>
+                  <Menu.Item key="512">option12</Menu.Item>
+                </SubMenu>
+                <SubMenu key="sub77" title="PRICE">
+                  <Menu.Item key="49">option9</Menu.Item>
+                  <Menu.Item key="410">option10</Menu.Item>
+                  <Menu.Item key="411">option11</Menu.Item>
+                  <Menu.Item key="412">option12</Menu.Item>
+                </SubMenu>
+                <SubMenu key="sub88" title="DISCOUNT">
+                  <Menu.Item key="39">option9</Menu.Item>
+                  <Menu.Item key="310">option10</Menu.Item>
+                  <Menu.Item key="311">option11</Menu.Item>
+                  <Menu.Item key="312">option12</Menu.Item>
+                </SubMenu>
+                <SubMenu key="sub99" title="AVG CUSTOMER RATING">
+                  <Menu.Item key="29">option9</Menu.Item>
+                  <Menu.Item key="210">option10</Menu.Item>
+                  <Menu.Item key="211">option11</Menu.Item>
+                  <Menu.Item key="212">option12</Menu.Item>
+                </SubMenu>
+                <SubMenu key="sub100" title="COLOR">
+                  <Menu.Item key="19">option9</Menu.Item>
+                  <Menu.Item key="110">option10</Menu.Item>
+                  <Menu.Item key="111">option11</Menu.Item>
+                  <Menu.Item key="112">option12</Menu.Item>
+                </SubMenu>
+              </Menu>
+            </Col>
+            <Col md={20} sm={8} xs={24}>
+              <Row>
+                <Col md={7} xs={24} sm={12} className="makeup-card1">
+                  <MakeupCard
+                    src={prod1}
+                    className="makeup-card1"
+                    prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                    desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                  />
+                </Col>
+                <Col md={7} xs={24} sm={12} className="makeup-card1">
+                  <MakeupCard
+                    src={prod1}
+                    className="makeup-card1"
+                    prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                    desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                  />{" "}
+                </Col>{" "}
+                <Col md={7} xs={24} sm={12} className="makeup-card1">
+                  <MakeupCard
+                    src={prod1}
+                    className="makeup-card1"
+                    prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                    desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                  />{" "}
+                </Col>{" "}
+                <Col md={7} xs={24} sm={12} className="makeup-card1">
+                  <MakeupCard
+                    src={prod1}
+                    className="makeup-card1"
+                    prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                    desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                  />{" "}
+                </Col>
+                <Col md={7} xs={12} sm={12} className="makeup-card1">
+                  <MakeupCard
+                    src={prod1}
+                    className="makeup-card1"
+                    prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                    desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                  />{" "}
+                </Col>{" "}
+                <Col md={7} className="makeup-card1">
+                  <MakeupCard
+                    src={prod1}
+                    className="makeup-card1"
+                    prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                    desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                  />{" "}
+                </Col>
+                <Col md={7} className="makeup-card1">
+                  <MakeupCard
+                    src={prod1}
+                    className="makeup-card1"
+                    prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                    desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                  />{" "}
+                </Col>{" "}
+                <Col md={7} className="makeup-card1">
+                  <MakeupCard
+                    src={prod1}
+                    className="makeup-card1"
+                    prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                    desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                  />{" "}
+                </Col>
+                <Col md={7} className="makeup-card1">
+                  <MakeupCard
+                    src={prod1}
+                    className="makeup-card1"
+                    prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                    desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                  />{" "}
+                </Col>
+              </Row>
+              {/* <Col md={6} sm={8} xs={24} className="makeup-card1">
+                <MakeupCard
+                  src={prod1}
+                  className="makeup-card1"
+                  prodname="Huda Beauty LEGIT Lashes Double-Ended Mascara"
+                  desc="Lakme Absolute Blur Perfect Makeup Primer - Mini"
+                />
+              </Col> */}
+            </Col>
+          </Row>
+
+          </Col>
+          </Row>

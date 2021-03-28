@@ -1,0 +1,19 @@
+.home-card {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: normal;
+  color: #3f414d;
+  font-size: 24px;
+  text-align: center;
+}
+.brands-one {
+  color: #fc2779;
+  font-weight: 600;
+  font-size: 14px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.brands-two {
+  color: #8c8d94;
+  line-height: normal;
+  font-size: 15px;
+  font-family: "Source Sans Pro", sans-serif;
+}

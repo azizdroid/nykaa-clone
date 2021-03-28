@@ -1,0 +1,56 @@
+.makeup-card {
+  font-family: Georgia, serif;
+  font-weight: normal;
+  color: #423f3f;
+  font-size: 20px;
+  flex: 1;
+  text-align: center;
+}
+.makeup-card1 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: Source Sans Pro, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857;
+  color: #3f414d;
+  flex: 1;
+  justify-content: space-between;
+}
+.cara {
+  align-items: center;
+  justify-content: space-around;
+  align-items: center;
+}
+.product__rating {
+  color: rgb(238, 26, 132);
+}
+.card-foo {
+  background-color: rgb(238, 26, 132);
+}
+.container {
+  position: relative;
+}
+
+.text {
+  margin-top: 236px;
+  background-color: rgb(238, 26, 132);
+  color: white;
+  font-size: 16px;
+  width: 300px;
+  padding: 16px 32px;
+}
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
+}
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}

@@ -1,0 +1,58 @@
+.footer-one {
+  background-color: #3f414d;
+
+  color: #fff;
+  font-size: 14px;
+}
+
+.footer-two {
+  background-color: #8c8d94;
+  color: #fff;
+  text-transform: uppercase;
+  height: 350px;
+}
+.footer-three {
+  background-color: #f3f3f3;
+  color: #3f414d;
+  padding-top: 40px;
+  font-family: serif;
+  font-size: 30px;
+  height: 150px;
+}
+.footer-four {
+  padding: 16px 0;
+  background-color: #fc2779;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: sans-serif;
+  text-align: center;
+  height: 100px;
+}
+
+.brand-one {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  border-bottom: 1px solid #ebebeb;
+  color: black;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.brand-two {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.42857;
+  color: #333;
+  background-color: #fff;
+}
+
+.brand1 {
+  background-color: #8c8d94;
+  color: #fff;
+  line-height: 1.5;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+}

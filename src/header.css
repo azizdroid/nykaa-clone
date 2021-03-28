@@ -1,0 +1,45 @@
+.header {
+  background-image: url(header-banner.jpg);
+  background-repeat: no-repeat;
+  font-size: 16px;
+  font-family: "SourceSansPro-SemiBold", sans-serif;
+  font-weight: 600;
+  line-height: 40px;
+  background-color: white;
+}
+
+.header-navbar {
+  display: inline-block;
+  font-size: 10px;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #03021a;
+  background-color: white;
+}
+.iconss {
+  height: 100px;
+}
+
+.header-navbar1 {
+  font-weight: 400;
+  font-size: 16px;
+  color: grey;
+  text-transform: capitalize;
+}
+
+.header-navbar1:hover {
+  color: rgb(197, 0, 99);
+}
+
+.home-card {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: normal;
+  color: #3f414d;
+  letter-spacing: 3.9px;
+  font-size: 24px;
+  text-align: center;
+}
+.newphoto {
+  background-color: white;
+}
